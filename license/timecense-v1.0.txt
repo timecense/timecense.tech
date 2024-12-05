@@ -1,0 +1,61 @@
+Timecense Software License Agreement
+Version 1.0, December 2024
+====================================
+
+This Software License Agreement ("Agreement") is entered into by and between JC-Lab ("Author") and the individual or entity ("Licensee") that accepts the terms of this Agreement. By using, installing, or otherwise accessing the Software as defined herein, the Licensee agrees to the terms of this Agreement. If the Licensee does not agree, they must not use or access the Software.
+
+Definitions
+-----------
+1. "Software": All programs developed by JC-Lab under the "timecense" brand, including but not limited to "timecense-common" and "timecense plugin."
+2. "Protected Software": Any software created by Licensee or third parties that is not owned by JC-Lab but is protected through the Software.
+
+Section 1: Dependency Libraries
+--------------------------------
+1. The dependency libraries, such as "timecense-common," are provided solely for the purpose of enabling the operation of Protected Software with the Software.
+2. The Licensee is granted a non-exclusive, non-transferable, revocable license to use, reproduce, and distribute the dependency libraries solely as necessary for the functioning of Protected Software.
+3. The Licensee may not sublicense the dependency libraries, nor use them for any purpose other than supporting the operation of Protected Software, without prior written consent from JC-Lab.
+
+Section 2: Purchased Software
+-----------------------------
+1. The Software purchased by the Licensee, including but not limited to "timecense plugin," is licensed exclusively to the Licensee upon payment.
+2. The Licensee is granted a non-exclusive, non-transferable license to use the purchased Software in accordance with its intended purpose.
+3. Redistribution, sublicensing, or any transfer of the purchased Software to third parties is strictly prohibited without prior written consent from JC-Lab.
+
+Section 3: Ownership and Intellectual Property
+----------------------------------------------
+1. The Software is the sole property of JC-Lab and is protected by copyright laws and international treaties.
+2. No ownership rights are transferred to the Licensee under this Agreement.
+3. The Licensee acknowledges that all intellectual property rights in and to the Software remain with JC-Lab.
+
+Section 4: Disclaimer of Warranties
+-----------------------------------
+1. The Software is provided "AS IS," without warranty of any kind, express or implied.
+2. JC-Lab disclaims all warranties, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+3. JC-Lab does not warrant that the Software will meet the Licensee's requirements, or that its operation will be uninterrupted or error-free.
+
+Section 5: Limitation of Liability
+----------------------------------
+1. Under no circumstances shall JC-Lab be liable for any direct, indirect, incidental, consequential, or special damages arising from the use or inability to use the Software.
+2. This limitation applies even if JC-Lab has been advised of the possibility of such damages.
+
+Section 6: Termination
+-----------------------
+1. This Agreement is effective until terminated.
+2. JC-Lab may terminate this Agreement if the Licensee breaches any of its terms.
+3. Upon termination, the Licensee must immediately cease using the Software and destroy all copies in their possession.
+
+Section 7: Governing Law
+------------------------
+This Agreement shall be governed by and construed in accordance with the laws of the Republic of Korea, without regard to its conflict of law provisions.
+
+Section 8: Amendments
+---------------------
+1. JC-Lab reserves the right to amend this Agreement at any time.
+2. Amendments will be effective upon notification to the Licensee or upon being made available through the official Timecense website.
+3. The Licensee's continued use of the Software after an amendment constitutes acceptance of the amended Agreement.
+
+Contact Information
+-------------------
+For inquiries related to this Agreement, please contact JC-Lab at: joseph@jc-lab.net.
+
+By using the Software, the Licensee acknowledges that they have read and understood this Agreement and agree to be bound by its terms.
